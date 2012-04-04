@@ -1,5 +1,5 @@
 maintainer       "Substantial Inc."
-maintainer_email "YOUR_EMAIL"
+maintainer_email "shaun@substantial.com"
 license          "All rights reserved"
 description      "Installs/Configures qt"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))

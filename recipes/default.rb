@@ -2,7 +2,7 @@
 # Cookbook Name:: qt
 # Recipe:: default
 #
-# Copyright 2012, YOUR_COMPANY_NAME
+# Copyright 2012, Substantial Inc.
 #
 # All rights reserved - Do Not Redistribute
 #
