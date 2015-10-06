@@ -15,7 +15,15 @@ apt_repository "ubuntu-sdk-team" do
   key "C7122F9B"
 end
 
-qt_packages = %w( qtbase5-dev qtbase5-dev-tools)
+qt_packages = %w(
+  qtbase5-dev
+  qtbase5-dev-tools
+  libqt5webkit5-dev
+  qtdeclarative5-dev
+  qt5-default
+)
+
+
 
 qt_packages.each do |pkg|
   package pkg
